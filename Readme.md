@@ -5,6 +5,8 @@
 Zibanu es una librería que proporciona una colección de funciones y clases útiles para implementar servicios REST en [Django](https://www.djangoproject.com/ "django"), teniendo como enfoque la autenticación de usuarios.
 
 ##Requisitos
+Requisitos
+------------
 - [Python](https://www.python.org/ "Python") 3.9.2
 - [Django](https://www.djangoproject.com/ "Django") 4.2
 - [npm](https://www.npmjs.com/ "npm") 8.3.1
