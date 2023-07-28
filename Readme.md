@@ -10,7 +10,8 @@ Requisitos
 - [Django](https://www.djangoproject.com/ "Django") 4.2
 - [npm](https://www.npmjs.com/ "npm") 8.3.1
 
-##Instalación
+Instalación
+------------
 Para instalar la librería, sigue los siguientes pasos:
 
 1. Clona este repositorio o descarga el código fuente.
@@ -27,18 +28,23 @@ Para instalar la librería, sigue los siguientes pasos:
 
 npm???
 
-##Uso
+Uso
+------------
+Documentación
+------------
 
-##Documentación
-
-##Funciones
+Funciones
+------------
 | Function name | Description                    |
 | ------------- | ------------------------------ |
 | `update()`      | Update user information based on the provided email.     |
 | `destroy()`   | Override method to delete user from django auth sub-system    |
-###Otras funciones
 
-##Licencia
+Otras funciones
+------------
 
-##Sobre nosotros
+Licencia
+------------
+Sobre nosotros
+------------
 El desarrollo de Zibanu Django está dirigido por el [equipo de desarrollo de software](https://www.cqinversiones.com/index.php/portafolio/desarrollo-de-software "equipo de desarrollo de software") de [CQ Inversiones](https://www.cqinversiones.co/index.php "CQ Inversiones") con el objetivo de optimizar y agilizar las tareas de desarrollo relacionadas con la implementación de servicios REST en aplicaciones Django.
